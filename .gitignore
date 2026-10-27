@@ -1,0 +1,13 @@
+# Arduino / build
+build/
+*.bin
+*.elf
+*.map
+
+# Dati personali (mai nel repository)
+segreti.h
+secrets.h
+
+# Sistema
+.DS_Store
+Thumbs.db
